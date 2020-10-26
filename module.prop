@@ -1,0 +1,6 @@
+id=reiser4progs
+name=Reiser4 progs
+version=v1
+versionCode=1
+author=Denis Efremov (@evdenis)
+description=Reiser4 progs (https://github.com/edward6/reiser4progs). Arm64 only.
