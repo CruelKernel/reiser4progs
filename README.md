@@ -16,7 +16,7 @@ Build with GCC10, LTO, stripped. Arm64 only.
 
 Stable release:
 1. Dowload latest reiser4progs.zip from releases page
-   https://github.com/evdenis/reiser4progs/releases
+   https://github.com/CruelKernel/reiser4progs/releases
 2. MagiskManager -> Modules + Downloads/reiser4progs.zip -> Reboot
 
 Master branch:
